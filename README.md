@@ -1,6 +1,6 @@
-# TextMate Grammar Color Demo 
+# TextMate Theme Mapper
 
-This extension creates colorization syntax for the file extension *.tmcolor to show how theme colors map to the TextMate naming conventions. 
+This extension creates colorization syntax for the file extension *.tmcolor to show how theme colors map to the [TextMate naming conventions](http://manual.macromates.com/en/language_grammars#naming_conventions). 
 
 It can be useful for:
 - Authoring Visual Studio Code themes

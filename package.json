@@ -1,7 +1,7 @@
 {
 	"name": "tmcolor",
-	"displayName": "tmcolor",
-	"description": "TextMate Grammar Color Demo",
+	"displayName": "Theme Mapper",
+	"description": "TextMate Theme Mapper",
 	"version": "0.0.1",
 	"publisher": "sleutho",
 	"icon": "images/tmcolor.png",
