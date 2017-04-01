@@ -1,5 +1,10 @@
-# Tcl Language Support for Visual Studio Code
+# TextMate Grammar Color Demo 
 
-This extension adds language support for the Tcl (Tool Command Language). Including so far
+This extension creates colorization syntax for the file extension *.tmcolor to show how colors map to the TextMate naming conventions. 
 
-- Colorization
+It can be useful for:
+- Authoring Visual Studio Code themes
+- Authoring TextMate syntax colorizers
+- Choosing a Visual Studio theme
+
+Please navigate to your VS Code extension folder and open the */extensions/tmColor/demo/example.tmcolor* file.
