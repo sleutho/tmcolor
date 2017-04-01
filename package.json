@@ -1,0 +1,44 @@
+{
+	"name": "tmcolor",
+	"displayName": "tmcolor",
+	"description": "TextMate Grammar Color Demo",
+	"version": "0.0.1",
+	"publisher": "sleutho",
+	"icon": "images/tmcolor.png",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sleutho/tmcolor.git"
+	},
+	"categories": [
+		"Languages"
+	],
+	"galleryBanner": {
+		"color": "#9AB3CF",
+		"theme": "light"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "tmcolor",
+				"aliases": [
+					"tmcolor",
+					"tmcolor"
+				],
+				"extensions": [
+					".tmcolor"
+				],
+				"configuration": "./tmcolor.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "tmcolor",
+				"scopeName": "source.tmcolor",
+				"path": "./syntaxes/tmcolor.tmLanguage"
+			}
+		]
+	}
+}
